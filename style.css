@@ -15,3 +15,21 @@ body {
   right: 0px;
   left: 14%;
 }
+
+.ontop2 {
+  height: 100px;
+  background-color: rgba(255, 255, 255, 0);
+  position: absolute;
+  top: 25%;
+  right: 0px;
+  left: 60%;
+}
+
+.ontop3 {
+  height: 100px;
+  background-color: rgba(255, 255, 255, 0);
+  position: absolute;
+  top: 30%;
+  right: 0px;
+  left: 90%;
+}
